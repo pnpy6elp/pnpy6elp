@@ -1,10 +1,11 @@
 <h1 align="center">BoyoungLim</h1>
-- 🔭 I’m currently interested in Distributed computing...
+- 🔭 I’m currently interested in Distributed computing and Automatic Sound Recognition.
 <h2 align="center">👨‍💻Tech Stack👨‍💻</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-00599C?style=flat-square&logo=kotlin&logoColor=white">&nbsp 
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Keras-3766AB?style=flat-square&logo=keras&logoColor=white">&nbsp 
@@ -29,7 +30,8 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> &nbsp
-  <img src="https://img.shields.io/badge/Docker-F8DC75?style=flat-square&logo=Docker&logoColor=black"> &nbsp
+  <img src="https://img.shields.io/badge/Docker-339AF0?style=flat-square&logo=Docker&logoColor=black"> &nbsp
+  <img src="https://img.shields.io/badge/Android Studio-6DB33F?style=flat-square&logo=androidstudio&logoColor=black"> &nbsp
 </p>
 
 
