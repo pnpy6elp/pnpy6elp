@@ -1,5 +1,5 @@
 <h1 align="center">BoyoungLim</h1>
-- 🔭 I’m currently interested in Distributed computing and Automatic Sound Recognition.
+- 🔭 I’m currently interested in Distributed computing and Graph data.
 <h2 align="center">👨‍💻Tech Stack👨‍💻</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">&nbsp 
